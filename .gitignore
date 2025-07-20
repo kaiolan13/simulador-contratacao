@@ -1,0 +1,21 @@
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de ambiente virtual
+venv/
+.env/
+
+# Ignorar arquivos de configuração locais
+config.toml
+
+# Ignorar arquivos grandes e de dados
+*.csv
+*.pkl
+
+# Ignorar arquivos ocultos de sistema
+.DS_Store
+Thumbs.db
